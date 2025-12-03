@@ -10,7 +10,7 @@ Analyze historical bike trip data to identify trends and design marketing strate
 ---
 
 ## 📊 Deliverables
-* **[📄 Download the Final Presentation (PDF)](presentation/Cyclistic_Presentation.pdf)** *(Click the link above to view the slides containing visualizations and recommendations)*
+* **[📄 Download the Final Presentation (PDF)](Cyclistic_Presentation.pdf)**
 
 ---
 
