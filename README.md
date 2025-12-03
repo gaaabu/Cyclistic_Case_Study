@@ -9,6 +9,11 @@ Analyze historical bike trip data to identify trends and design marketing strate
 
 ---
 
+## 📊 Deliverables
+* **[📄 Download the Final Presentation (PDF)](presentation/Cyclistic_Presentation.pdf)** *(Click the link above to view the slides containing visualizations and recommendations)*
+
+---
+
 ## ⚙️ Methodology & Process
 
 This project utilized a hybrid approach, leveraging **R** for statistical sampling and **Google Sheets** for granular cleaning and analysis.
@@ -47,6 +52,7 @@ Monthly samples were combined by season to identify broader trends. Pivot tables
 
 * **`r_codes/`**: Contains the R scripts used to calculate the sample size and extract the monthly datasets based on the 98% confidence level.
 * **`monthly_datasets_2022/`**: Contains the cleaned and sampled CSV files used for the analysis.
+* * **`presentation/`**: Contains the final slide deck with visualizations and insights.
 
 ---
 
